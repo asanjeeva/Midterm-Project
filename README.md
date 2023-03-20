@@ -8,4 +8,4 @@ Navigate my website using these links
 * [Skills](./skills.md)
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
-* [Boxing Result](.boxing.md)
+* [Boxing Result](./boxing.md)
