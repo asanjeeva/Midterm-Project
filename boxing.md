@@ -4,14 +4,14 @@
 
 | Boxing Match | Archie  | Johnny |
 | ------- |:-------:| -----:|
-| Test 1 | 30 | 29 |
-| Mid Sem | 28 | 30 |
-| End Sem | 30 | 26 |
+| Match 1| 30 | 29 |
+| Match 2 | 28 | 30 |
+| Match 3 | 30 | 26 |
 
-## Certificates
+## Images
 
-![Certificate 1](https://github.com/username/image.png)
+![Image 1](https://github.com/username/image.png)
 
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
+![Image 2](https://phantom-marca.unidadeditorial.es/3099f42335a3c7c82a330459f172cb94/crop/0x0/2047x1365/resize/1200/f/webp/assets/multimedia/imagenes/2023/01/11/16734577790247.jpg)
 
 [return to home](./README.md)
